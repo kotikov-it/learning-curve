@@ -1,8 +1,4 @@
-# learning-curve
-
-# Sprachbrücke (Projektname - Platzhalter)
-
-![Vorschaubild der App](https://placehold.co/1200x630/7c3aed/ffffff?text=Sprachbr%C3%BCcke&font=raleway)
+# Laerning-Curve (Projektname)
 
 ## 🎯 Projektziel
 
@@ -23,7 +19,7 @@ Die Anwendung deckt die Sprachniveaus von **A1 bis C1** gemäß dem Gemeinsamen 
 * **Dynamische Aufgaben:** Während einer Übung können bei Bedarf zusätzliche Aufgaben oder Erklärungen dynamisch hinzugefügt werden, um auf individuelle Lernbedürfnisse einzugehen.
 * **Anpassbarer Schwierigkeitsgrad:** Jede Übung kann in den Stufen **Leicht**, **Mittelschwer** und **Schwer** absolviert werden.
 * **KI-gestützte Inhalte:** Die Lerninhalte werden durch KI generiert, aber von Menschenhand kuratiert und geprüft, um Qualität und Relevanz sicherzustellen.
-* **Plattformübergreifend:** Dank Flutter läuft die App nativ auf iOS, Android und potenziell auch auf Desktop-Plattformen.
+* **Flexibles Lernen auf allen Geräten:** Die ersten Versionen werden für **iOS** und **Android** entwickelt. Dank der Wahl des Flutter-Frameworks kann die Anwendung zukünftig jedoch leicht auf **Windows** und **macOS** ausgeweitet werden. Ziel ist es, ein weites Spektrum an Betriebssystemen zu unterstützen, damit Nutzer nicht nur schnell auf dem Handy, sondern auch bequem am Laptop oder PC lernen können.
 
 ---
 
