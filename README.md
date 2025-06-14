@@ -1,8 +1,10 @@
-# Laerning-Curve (Projektname)
+# Learning-Curve
+
+![Vorschaubild der App](https://placehold.co/1200x630/7c3aed/ffffff?text=Learning-Curve&font=raleway)
 
 ## 🎯 Projektziel
 
-**Sprachbrücke** ist eine mobile Anwendung, die das Ziel verfolgt, ukrainischen Lernenden den Einstieg in die deutsche Sprache zu erleichtern und sie gezielt auf Prüfungen wie den **TestDaF** (Test Deutsch als Fremdsprache) vorzubereiten. Die App dient als interaktive Ergänzung zu klassischen Deutschkursen und bietet eine flexible Möglichkeit, gelernte Inhalte zu wiederholen und das erworbene Wissen zu vertiefen.
+**Learning-Curve** ist eine mobile Anwendung, die das Ziel verfolgt, ukrainischen Lernenden den Einstieg in die deutsche Sprache zu erleichtern und sie gezielt auf Prüfungen wie den **TestDaF** (Test Deutsch als Fremdsprache) vorzubereiten. Die App dient als interaktive Ergänzung zu klassischen Deutschkursen und bietet eine flexible Möglichkeit, gelernte Inhalte zu wiederholen und das erworbene Wissen zu vertiefen.
 
 Die Anwendung deckt die Sprachniveaus von **A1 bis C1** gemäß dem Gemeinsamen Europäischen Referenzrahmen (GER) ab. Der Lernerfolg hängt dabei stark von der Eigeninitiative und der Regelmäßigkeit ab, mit der die Übungen absolviert werden.
 
@@ -86,8 +88,8 @@ Anweisungen zur lokalen Einrichtung des Projekts.
 
 1.  **Repository klonen:**
     ```bash
-    git clone [https://github.com/DEIN-BENUTZERNAME/DEIN-REPO.git](https://github.com/DEIN-BENUTZERNAME/DEIN-REPO.git)
-    cd DEIN-REPO
+    git clone [https://github.com/kotikov-it/learning-curve.git](https://github.com/kotikov-it/learning-curve.git)
+    cd learning-curve
     ```
 
 2.  **Abhängigkeiten installieren:**
